@@ -50,7 +50,7 @@ books and articles.
 
 ## Unsorted / Uncategorized
 
-- <https://github.com/thewhitetulip/web-dev-golang-anti-textbook>
-- The Little Go Book
-- Go for PHP Developers
+- [Webapps in Go](https://leanpub.com/antitextbookGo)
+- [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
+- [Go for PHP Developers](https://leanpub.com/go-for-php-devs/)
 
