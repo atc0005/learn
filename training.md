@@ -3,7 +3,12 @@
 Professional development by way of videos, online courses and traditional
 books and articles.
 
+## TODO
+
+- Create one or more tables to group items and make content easier to manage
+
 - [Training](#Training)
+  - [TODO](#TODO)
   - [Lynda.com / LinkedIn Learning](#Lyndacom--LinkedIn-Learning)
     - [O'Reilly](#OReilly)
       - [Online Training](#Online-Training)
