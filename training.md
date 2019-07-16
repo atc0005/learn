@@ -3,6 +3,16 @@
 Professional development by way of videos, online courses and traditional
 books and articles.
 
+- [Training](#Training)
+  - [2019](#2019)
+    - [Lynda.com / LinkedIn Learning](#Lyndacom--LinkedIn-Learning)
+    - [O'Reilly](#OReilly)
+      - [Online Training](#Online-Training)
+      - [Books / Videos](#Books--Videos)
+  - [2018](#2018)
+  - [Earlier](#Earlier)
+  - [Unsorted / Uncategorized](#Unsorted--Uncategorized)
+
 ## 2019
 
 ### Lynda.com / LinkedIn Learning
