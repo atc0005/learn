@@ -22,7 +22,7 @@ books and articles.
   - Add Kubernetes courses
   - Add Docker courses
 
-### Books / Videos
+#### Books / Videos
 
 - [Docker for Rails Developers](https://learning.oreilly.com/api/v1/dashboard/continue/9781680506730)
 - [Version Control with Git and Github](https://learning.oreilly.com/videos/-/9781634625326/continue)
