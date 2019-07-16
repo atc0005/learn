@@ -46,7 +46,7 @@ books and articles.
 
 ## Earlier
 
-- Learn Windows PowerShell in a Month of Lunches
+- [Learn Windows PowerShell in a Month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches)
 
 ## Unsorted / Uncategorized
 
