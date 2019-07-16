@@ -41,8 +41,8 @@ books and articles.
 
 ## 2018
 
-- Ansible for DevOps
-- The Kubernetes Book
+- [Ansible for DevOps](https://www.ansiblefordevops.com/)
+- [The Kubernetes Book](https://leanpub.com/thekubernetesbook)
 
 ## Earlier
 
