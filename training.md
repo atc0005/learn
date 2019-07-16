@@ -36,7 +36,7 @@ books and articles.
 
 - [Docker for Rails Developers](https://learning.oreilly.com/api/v1/dashboard/continue/9781680506730)
 - [Version Control with Git and Github](https://learning.oreilly.com/videos/-/9781634625326/continue)
-- Learn Go in 3 Hours
+- [Learn Go in 3 Hours](https://learning.oreilly.com/videos/learn-go-in/9781788992053)
 - [Introducing ZFS on Linux: Understand the Basics of Storage with ZFS](https://learning.oreilly.com/library/view/introducing-zfs-on/9781484233061/)
 
 ## 2018
@@ -53,4 +53,3 @@ books and articles.
 - [Webapps in Go](https://leanpub.com/antitextbookGo)
 - [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 - [Go for PHP Developers](https://leanpub.com/go-for-php-devs/)
-
